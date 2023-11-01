@@ -1,0 +1,43 @@
+body {
+  background-image: url('tlo.png');
+  margin-left: auto;
+  margin-right: auto;
+  width: 800px;
+}
+}
+
+h1 {
+  font-family: "Agbalumo";
+  
+}
+
+h2 {
+  font-family: "Agbalumo";
+  padding: 20px;
+}
+
+p {
+	padding: 20px;
+  font-family: "Agbalumo";
+}
+
+img {
+  border-radius: 25px;
+  width: 480px;
+  height: 320px;
+  padding: 20px;
+}
+
+div {
+	background-color: orange;
+	border: solid 3px black;
+	border-radius: 15px;
+}
+
+article {
+
+	font-family: "Agbalumo";
+	text-align: center;
+	font-size: 2em;
+	color: white;
+}
